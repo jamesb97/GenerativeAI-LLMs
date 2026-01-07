@@ -30,7 +30,7 @@ cd instructlab
 
 It is recommended to install InstructLab in a virtual environment such as venv or pyenv.
 
-Note: In this lab, venv virtual environmentis used. However, if you use another tool such as pyenv or Conda Miniforge for managing Python environments on your machine, continue to use that tool instead. Otherwise, you may have issues with packages that are installed but not found in venv.
+Note: In this lab, venv virtual environments are used. However, if you use another tool such as pyenv or Conda Miniforge for managing Python environments on your machine, continue to use that tool instead. Otherwise, you may have issues with packages that are installed but not found in venv.
 
 To initialize and activate a venv virtual environment run the below command:
 
